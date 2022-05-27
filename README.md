@@ -6,7 +6,7 @@
 - Consumer ---> It is the server that receives the message sent.
 - Producer ----> The source that sends the message, that is, the application.
 - Fifo ----------> The processing order of outgoing messages in RabbitMQ. First in is first out.
-- Queue ------> Sent messages are put in a queue before they are delivered to the recipient. 
+- Queue -------> Sent messages are put in a queue before they are delivered to the recipient. 
 
 
 
