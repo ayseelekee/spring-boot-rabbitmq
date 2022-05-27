@@ -12,7 +12,7 @@
 
 
 
----------SETUP--------
+---------------------SETUP---------------------
 
 
 Download the latest version of Ergland.
